@@ -1,0 +1,2 @@
+# huaObject
+my object
